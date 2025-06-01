@@ -1,2 +1,0 @@
-# amir
-## hello hamcof o
